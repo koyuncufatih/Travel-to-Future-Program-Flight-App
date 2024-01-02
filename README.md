@@ -19,6 +19,15 @@ npm run build
 ```
 npm run lint
 ```
+## Project API setup
+```
+npm install json-server
+```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run Mock Data Api
+```
+json-server --watch airports
+```
+```
+json-server --watch flights -p 4000
+```

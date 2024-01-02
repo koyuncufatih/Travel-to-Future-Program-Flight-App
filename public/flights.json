@@ -1,0 +1,202 @@
+{
+  "flights": [
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "LHR",
+      "departureDate": "2024-01-02",
+      "departureTime": "15:30",
+      "duration": "4h 30m",
+      "airline": "Turkish Airlines",
+      "price": 350
+    },
+    {
+      "departureAirport": "LHR",
+      "arrivalAirport": "IST",
+      "departureDate": "2024-01-03",
+      "departureTime": "15:30",
+      "duration": "4h 30m",
+      "airline": "Turkish Airlines",
+      "price": 850
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "LHR",
+      "departureDate": "2024-01-02",
+      "departureTime": "16:30",
+      "duration": "4h",
+      "airline": "Turkish Airlines",
+      "price": 550
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "CDG",
+      "departureDate": "2023-05-05",
+      "departureTime": "08:45",
+      "duration": "3h 15m",
+      "airline": "Air France",
+      "price": 280
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "FRA",
+      "departureDate": "2023-05-10",
+      "departureTime": "12:00",
+      "duration": "3h 30m",
+      "airline": "Lufthansa",
+      "price": 320
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "DXB",
+      "departureDate": "2023-05-15",
+      "departureTime": "18:20",
+      "duration": "5h 15m",
+      "airline": "Emirates",
+      "price": 450
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "JFK",
+      "departureDate": "2024-01-02",
+      "departureTime": "20:10",
+      "duration": "10h 30m",
+      "airline": "Delta Air Lines",
+      "price": 800
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "LAX",
+      "departureDate": "2023-05-25",
+      "departureTime": "22:45",
+      "duration": "12h 15m",
+      "airline": "American Airlines",
+      "price": 900
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "SYD",
+      "departureDate": "2023-05-30",
+      "departureTime": "14:30",
+      "duration": "18h 45m",
+      "airline": "Qantas",
+      "price": 1200
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "ICN",
+      "departureDate": "2023-06-01",
+      "departureTime": "09:20",
+      "duration": "10h 40m",
+      "airline": "Korean Air",
+      "price": 600
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "NRT",
+      "departureDate": "2023-06-05",
+      "departureTime": "16:55",
+      "duration": "11h 25m",
+      "airline": "Japan Airlines",
+      "price": 700
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "AKL",
+      "departureDate": "2023-06-10",
+      "departureTime": "23:30",
+      "duration": "20h 10m",
+      "airline": "Air New Zealand",
+      "price": 1100
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "LHR",
+      "departureDate": "2023-06-15",
+      "departureTime": "18:30",
+      "duration": "4h 30m",
+      "airline": "Turkish Airlines",
+      "price": 380
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "CDG",
+      "departureDate": "2023-06-20",
+      "departureTime": "10:15",
+      "duration": "3h 15m",
+      "airline": "Air France",
+      "price": 300
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "FRA",
+      "departureDate": "2023-06-25",
+      "departureTime": "14:30",
+      "duration": "3h 30m",
+      "airline": "Lufthansa",
+      "price": 330
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "DXB",
+      "departureDate": "2023-07-01",
+      "departureTime": "18:20",
+      "duration": "5h 15m",
+      "airline": "Emirates",
+      "price": 470
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "JFK",
+      "departureDate": "2023-07-05",
+      "departureTime": "20:10",
+      "duration": "10h 30m",
+      "airline": "Delta Air Lines",
+      "price": 820
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "LAX",
+      "departureDate": "2023-07-10",
+      "departureTime": "22:45",
+      "duration": "12h 15m",
+      "airline": "American Airlines",
+      "price": 920
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "SYD",
+      "departureDate": "2023-07-15",
+      "departureTime": "14:30",
+      "duration": "18h 45m",
+      "airline": "Qantas",
+      "price": 1250
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "ICN",
+      "departureDate": "2023-07-20",
+      "departureTime": "09:20",
+      "duration": "10h 40m",
+      "airline": "Korean Air",
+      "price": 620
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "NRT",
+      "departureDate": "2023-07-25",
+      "departureTime": "16:55",
+      "duration": "11h 25m",
+      "airline": "Japan Airlines",
+      "price": 720
+    },
+    {
+      "departureAirport": "IST",
+      "arrivalAirport": "AKL",
+      "departureDate": "2023-07-30",
+      "departureTime": "23:30",
+      "duration": "20h 10m",
+      "airline": "Air New Zealand",
+      "price": 1120
+    }
+  ]
+}

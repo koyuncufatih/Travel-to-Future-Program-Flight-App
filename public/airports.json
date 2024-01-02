@@ -1,0 +1,124 @@
+{
+  "airports": [
+    {
+      "name": "Atatürk International Airport",
+      "code": "IST",
+      "country": "Turkey",
+      "city": "Istanbul"
+    },
+    {
+      "name": "Sabiha Gökçen International Airport",
+      "code": "SAW",
+      "country": "Turkey",
+      "city": "Istanbul"
+    },
+    {
+      "name": "Antalya Airport",
+      "code": "AYT",
+      "country": "Turkey",
+      "city": "Antalya"
+    },
+    {
+      "name": "Esenboğa International Airport",
+      "code": "ESB",
+      "country": "Turkey",
+      "city": "Ankara"
+    },
+    {
+      "name": "Adnan Menderes Airport",
+      "code": "ADB",
+      "country": "Turkey",
+      "city": "Izmir"
+    },
+    {
+      "name": "Dalaman Airport",
+      "code": "DLM",
+      "country": "Turkey",
+      "city": "Mugla"
+    },
+    {
+      "name": "Milas-Bodrum Airport",
+      "code": "BJV",
+      "country": "Turkey",
+      "city": "Mugla"
+    },
+    {
+      "name": "Trabzon Airport",
+      "code": "TZX",
+      "country": "Turkey",
+      "city": "Trabzon"
+    },
+    {
+      "name": "Erkilet International Airport",
+      "code": "ASR",
+      "country": "Turkey",
+      "city": "Kayseri"
+    },
+    {
+      "name": "Adıyaman Airport",
+      "code": "ADF",
+      "country": "Turkey",
+      "city": "Adıyaman"
+    },
+    {
+      "name": "Heathrow Airport",
+      "code": "LHR",
+      "country": "United Kingdom",
+      "city": "London"
+    },
+    {
+      "name": "Charles de Gaulle Airport",
+      "code": "CDG",
+      "country": "France",
+      "city": "Paris"
+    },
+    {
+      "name": "Frankfurt Airport",
+      "code": "FRA",
+      "country": "Germany",
+      "city": "Frankfurt"
+    },
+    {
+      "name": "Dubai International Airport",
+      "code": "DXB",
+      "country": "United Arab Emirates",
+      "city": "Dubai"
+    },
+    {
+      "name": "John F. Kennedy International Airport",
+      "code": "JFK",
+      "country": "United States",
+      "city": "New York"
+    },
+    {
+      "name": "Los Angeles International Airport",
+      "code": "LAX",
+      "country": "United States",
+      "city": "Los Angeles"
+    },
+    {
+      "name": "Sydney Kingsford Smith Airport",
+      "code": "SYD",
+      "country": "Australia",
+      "city": "Sydney"
+    },
+    {
+      "name": "Incheon International Airport",
+      "code": "ICN",
+      "country": "South Korea",
+      "city": "Seoul"
+    },
+    {
+      "name": "Narita International Airport",
+      "code": "NRT",
+      "country": "Japan",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Auckland Airport",
+      "code": "AKL",
+      "country": "New Zealand",
+      "city": "Auckland"
+    }
+  ]
+}
